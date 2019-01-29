@@ -3,6 +3,12 @@ import PropTypes from 'prop-types';
 import { withStyles } from '@material-ui/core/styles';
 import TextField from '@material-ui/core/TextField';
 import Button from '@material-ui/core/Button';
+import green from '@material-ui/core/colors/green';
+import FormGroup from '@material-ui/core/FormGroup';
+import FormControlLabel from '@material-ui/core/FormControlLabel';
+import Checkbox from '@material-ui/core/Checkbox';
+import CheckBoxOutlineBlankIcon from '@material-ui/icons/CheckBoxOutlineBlank';
+import CheckBoxIcon from '@material-ui/icons/CheckBox';
 
 const Submit = theme => ({
     container: {
@@ -20,6 +26,12 @@ const Submit = theme => ({
     button: {
       margin: theme.spacing.unit,
       minWidth: 150,
+    },
+    root: {
+        display: 'flex',
+    },
+    formControl: {
+        margin: theme.spacing.unit * 3,
     },
 });
 
@@ -42,7 +54,7 @@ class OutlinedTextFields extends React.Component {
         return (
             <form 
               className={classes.container} 
-              noValidate 
+              Validate
               autoComplete="on"
               name="contact" 
               method="post" 
@@ -68,6 +80,38 @@ class OutlinedTextFields extends React.Component {
                   margin="normal"
                   variant="outlined"
                 />
+                <FormGroup row>
+                    <FormControlLabel
+                        control={
+                            <Checkbox
+                                checked={this.state.checkedA}
+                                onChange={this.handleChange('checkedA')}
+                                value="checkedA"
+                            />
+                        }
+                        label="Policing"
+                    />
+                    <FormControlLabel
+                        control={
+                            <Checkbox
+                                checked={this.state.checkedB}
+                                onChange={this.handleChange('checkedB')}
+                                value="checkedB"
+                            />
+                        }
+                        label="Correctional"
+                    />
+                    <FormControlLabel
+                        control={
+                            <Checkbox
+                                checked={this.state.checkedC}
+                                onChange={this.handleChange('checkedC')}
+                                value="checkedC"
+                            />
+                        }
+                        label="Research"
+                    />
+                </FormGroup>
                 <TextField
                   id="message"
                   label="Submit Program"
