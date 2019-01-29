@@ -4,7 +4,7 @@ import { withStyles } from '@material-ui/core/styles';
 import TextField from '@material-ui/core/TextField';
 import Button from '@material-ui/core/Button';
 
-const Request = theme => ({
+const Submit = theme => ({
     container: {
         display: 'flex',
         flexWrap: 'wrap',
@@ -70,7 +70,7 @@ class OutlinedTextFields extends React.Component {
                 />
                 <TextField
                   id="message"
-                  label="Requested Topic Summary"
+                  label="Submit Program"
                   style={{ margin: 8 }}
                   placeholder=""
                   fullWidth
@@ -107,4 +107,4 @@ OutlinedTextFields.propTypes = {
   classes: PropTypes.object.isRequired,
 };
 
-export default withStyles(Request)(OutlinedTextFields);
+export default withStyles(Submit)(OutlinedTextFields);
