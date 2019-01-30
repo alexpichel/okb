@@ -29,9 +29,13 @@ const Submit = theme => ({
     },
     root: {
         display: 'flex',
+        '&$checked': {
+            color: green[500],
+        },
     },
-    formControl: {
-        margin: theme.spacing.unit * 3,
+    checked: {},
+    FormGroup: {
+        marginLeft: theme.spacing.unit,
     },
 });
 
@@ -44,7 +48,7 @@ class OutlinedTextFields extends React.Component {
 
     handleChange = name => event => {
         this.setState({
-            [name]: event.target.value,
+            [name]: event.target.checked,
         });
     };
 
@@ -65,8 +69,9 @@ class OutlinedTextFields extends React.Component {
                   id="outlined-name"
                   label="Name"
                   className={classes.textField}
-                  value={this.state.name}
-                  onChange={this.handleChange('name')}
+                  type="name"
+                  name="name"
+                  autoComplete="name"
                   margin="normal"
                   variant="outlined"
                 />
@@ -80,13 +85,29 @@ class OutlinedTextFields extends React.Component {
                   margin="normal"
                   variant="outlined"
                 />
-                <FormGroup row>
+                <TextField
+                  id="position"
+                  label="Position"
+                  className={classes.textField}
+                  name="position"
+                  margin="normal"
+                  variant="outlined"
+                />
+                <TextField
+                  id="agency"
+                  label="Agency"
+                  className={classes.textField}
+                  margin="normal"
+                  variant="outlined"
+                />
+                <FormGroup className={classes.FormGroup} row>
                     <FormControlLabel
                         control={
                             <Checkbox
                                 checked={this.state.checkedA}
                                 onChange={this.handleChange('checkedA')}
                                 value="checkedA"
+                                color="primary"
                             />
                         }
                         label="Policing"
@@ -107,14 +128,97 @@ class OutlinedTextFields extends React.Component {
                                 checked={this.state.checkedC}
                                 onChange={this.handleChange('checkedC')}
                                 value="checkedC"
+                                classes={{
+                                    root: classes.root,
+                                    checked: classes.checked,
+                                }}
                             />
                         }
                         label="Research"
                     />
                 </FormGroup>
                 <TextField
-                  id="message"
-                  label="Submit Program"
+                  id="title"
+                  label="Program Name"
+                  className={classes.textField}
+                  margin="normal"
+                  variant="outlined"
+                />
+                <TextField
+                  id="problem"
+                  label="Problematic Behavior"
+                  style={{ margin: 8 }}
+                  placeholder=""
+                  fullWidth
+                  multiline
+                  className={classes.textField}
+                  rows="6"
+                  margin="normal"
+                  variant="outlined"
+                />
+                <TextField
+                  id="community"
+                  label="Community Impact"
+                  style={{ margin: 8 }}
+                  placeholder=""
+                  fullWidth
+                  multiline
+                  className={classes.textField}
+                  rows="6"
+                  margin="normal"
+                  variant="outlined"
+                />
+                <TextField
+                  id="description"
+                  label="Program Description"
+                  style={{ margin: 8 }}
+                  placeholder=""
+                  fullWidth
+                  multiline
+                  className={classes.textField}
+                  rows="6"
+                  margin="normal"
+                  variant="outlined"
+                />
+                <TextField
+                  id="research"
+                  label="Based on Research?"
+                  style={{ margin: 8 }}
+                  placeholder=""
+                  fullWidth
+                  multiline
+                  className={classes.textField}
+                  rows="6"
+                  margin="normal"
+                  variant="outlined"
+                />
+                <TextField
+                  id="funding"
+                  label="Funding"
+                  style={{ margin: 8 }}
+                  placeholder=""
+                  fullWidth
+                  multiline
+                  className={classes.textField}
+                  rows="6"
+                  margin="normal"
+                  variant="outlined"
+                />
+                <TextField
+                  id="impact"
+                  label="Impact of Program"
+                  style={{ margin: 8 }}
+                  placeholder=""
+                  fullWidth
+                  multiline
+                  className={classes.textField}
+                  rows="6"
+                  margin="normal"
+                  variant="outlined"
+                />
+                <TextField
+                  id="advice"
+                  label="Advice"
                   style={{ margin: 8 }}
                   placeholder=""
                   fullWidth
