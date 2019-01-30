@@ -141,6 +141,7 @@ class OutlinedTextFields extends React.Component {
                   id="title"
                   label="Program Name"
                   className={classes.textField}
+                  fullWidth
                   margin="normal"
                   variant="outlined"
                 />
