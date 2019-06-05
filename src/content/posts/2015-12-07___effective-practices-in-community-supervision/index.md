@@ -6,7 +6,8 @@ logo: /assets/agency/multnomah-logo.png
 author: "Pat Schreiner, District Manager"
 agencyid: "mult-dcj"
 agency: "Multnomah County Department of Community Justice"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Supervision"
   - "Training"

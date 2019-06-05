@@ -5,7 +5,8 @@ cover: /assets/correctional.png
 logo: /assets/agency/crook-sheriff-logo.png
 author: "Rhonda Belanger, Director"
 agencyID: "crook-s"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Specialized Caseload"

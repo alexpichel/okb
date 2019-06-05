@@ -6,7 +6,8 @@ logo: /assets/agency/jackson-sheriff-logo.png
 author: "Sgt. Melissa Di Costanzo"
 agencyid: "jackson-s"
 agency: "Jackson County Sheriff's Office"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Recruitment"
   - "Retention"

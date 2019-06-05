@@ -6,7 +6,8 @@ logo: /assets/agency/albany-pd-logo.png
 author: "Sandy Roberts, Community Education Specialist"
 agencyid: "albany-pd"
 agency: "Albany Police Department"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Chronic Nuisance"
   - "CPTED"

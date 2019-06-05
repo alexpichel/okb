@@ -6,7 +6,8 @@ logo: /assets/agency/osp-logo.png
 agency: "Oregon State Police"
 agencyid: "osp"
 author: "Major David Anderson"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Community Outreach"
   - "Traffic Safety"

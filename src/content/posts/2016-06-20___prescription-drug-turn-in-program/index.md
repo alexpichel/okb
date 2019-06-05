@@ -6,7 +6,8 @@ logo: /assets/agency/ppb.png
 author: "Jenni Pullen, Crime Prevention Coordinator"
 agencyid: "ppb"
 agency: "Portland Police Bureau"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Community Outreach"
   - "Crime Prevention"

@@ -6,7 +6,8 @@ logo: /assets/agency/multnomah-sheriff-logo.png
 author: "Sgt. Joey De Armond"
 agencyid: "mult-s"
 agency: "Multnomah County Sheriff's Office"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Jail"
   - "Policy"

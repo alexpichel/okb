@@ -6,7 +6,8 @@ logo: /assets/agency/multnomah-logo.png
 author: "Tina Edge, Senior Program Analyst"
 agencyid: "mult-dcj"
 agency: "Multnomah County Department of Community Justice"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Technology"
   - "Training"

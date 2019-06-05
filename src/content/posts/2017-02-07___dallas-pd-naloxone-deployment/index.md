@@ -6,7 +6,8 @@ logo: /assets/agency/dallas-pd-logo.png
 author: "Lt. Jerry Mott"
 agencyid: "dallas-pd"
 agency: "Dallas Police Department"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Drugs"
   - "Medical Response"

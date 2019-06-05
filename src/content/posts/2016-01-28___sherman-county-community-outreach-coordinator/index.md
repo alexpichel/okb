@@ -6,7 +6,8 @@ logo: /assets/agency/sherman-sheriff-logo.png
 author: "Katie Paul, Community Outreach Coordinator"
 agencyid: "sherman-s"
 agency: "Sherman County Sheriff's Office"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Community Outreach"
   - "Justice Reinvestment"

@@ -6,7 +6,8 @@ logo: /assets/agency/yamhill-logo.png
 author: "Jessica Beach, Director"
 agencyid: "yamhill-dcj"
 agency: "Yamhill County Department of Community Justice"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Pretrial Release"

@@ -6,7 +6,8 @@ logo: /assets/agency/lake-logo.png
 author: "Jake Greer, Community Corrections Director"
 agencyid: "lake-cc"
 agency: "Lake County Community Corrections"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Reentry"

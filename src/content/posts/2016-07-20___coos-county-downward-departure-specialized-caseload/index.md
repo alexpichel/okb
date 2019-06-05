@@ -6,7 +6,8 @@ logo: /assets/agency/coos-logo.png
 author: "Michael Crim, Community Corrections Director"
 agencyid: "coos-cc"
 agency: "Coos County Community Corrections"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Specialized Caseload"

@@ -6,7 +6,8 @@ logo: /assets/agency/salem-pd-logo.png
 author: "Angela Maria Hedrick, Community Relations Analyst"
 agencyid: "salem-pd"
 agency: "Salem Police Department"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Homeless"
   - "Property Crime"

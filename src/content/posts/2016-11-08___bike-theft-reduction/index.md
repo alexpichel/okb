@@ -6,7 +6,8 @@ logo: /assets/agency/bend-pd.png
 author: "Sgt. Dan Ritchie"
 agencyid: "bend-pd"
 agency: "Bend Police Department"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Chronic Nuisance"
   - "Crime Prevention"

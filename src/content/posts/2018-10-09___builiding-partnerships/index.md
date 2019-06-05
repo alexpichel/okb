@@ -6,7 +6,8 @@ logo: /assets/agency/corvallis-pd-logo.png
 agency: "Corvallis Police Department"
 agencyid: "corvallis-pd"
 author: "Sgt. Joel Goodwin"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Homeless"
   - "Quality of Life"
@@ -40,7 +41,7 @@ Prior experiences with local agencies and businesses has shown there is much mor
 
 The Corvallis Police Department has a Community Livability Unit consisting of a sergeant and five officers. While this team is not singularly tasked with addressing homeless camps, it does fall within their mission as a livability issue. There were costs beyond expected operational costs for the police department.
 
-Other City Departments have incurred more significant costs related to camp cleanups. One campsite was in a wetland area, prohibiting the use of heavy equipment in cleaning up several years worth of trash accumulation; the City had to contract with a company to clean that trash, costing an additional $35,000. ODOT, when cleaning their campsites, has utilized inmate work crews to reduce costs. 
+Other City Departments have incurred more significant costs related to camp cleanups. One campsite was in a wetland area, prohibiting the use of heavy equipment in cleaning up several years worth of trash accumulation; the City had to contract with a company to clean that trash, costing an additional $35,000. ODOT, when cleaning their campsites, has utilized inmate work crews to reduce costs.
 
 There has been limited success with clearing the campsites, with other agencies citing studies that need to be done, lack of funding, etc. prohibiting them from clearing the site.
 

@@ -6,7 +6,8 @@ logo: /assets/agency/klamath-county-logo.png
 author: "Kiki Parker-Rose, Director"
 agencyid: "klamath-s"
 agency: "Klamath County Sheriff's Office"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Jail"
   - "Justice Reinvestment"

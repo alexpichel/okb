@@ -6,7 +6,8 @@ logo: /assets/agency/bend-pd-logo.png
 agency: "Bend Police Department"
 agencyid: "bend-pd"
 author: "Eilene Flory, CIT Coordinator"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Crisis Intervention"
   - "Mental Illness"
@@ -30,9 +31,9 @@ Each arrest and incarceration requires considerable resources of local law enfor
 
 Between 2010 and 2011 a steering committee composed of employees from St. Charles Medical Center, Deschutes County Behavioral Health, the Bend Police Department, Deschutes County Adult Parole and Probation, the Redmond Police Department, and the Deschutes County Sheriff’s Office established the Deschutes County Crisis Intervention Team (CIT) and developed a 40-hour CIT training program for county law enforcement based on the Memphis CIT model.
 
-In 2012, the CIT steering committee received a grant from the Substance Abuse and Mental Health Services Administration’s (SAMHSA) GAINS Center for Behavioral Health and Justice Transformation to conduct a Sequential Intercept Mapping (SIM) workshop, which was facilitated by Policy Research Associates, Inc. That workshop helped the community better understand its criminal justice system and identify the county’s limitations and gaps with regard to diverting people with mental illness from the criminal justice system and service delivery. 
+In 2012, the CIT steering committee received a grant from the Substance Abuse and Mental Health Services Administration’s (SAMHSA) GAINS Center for Behavioral Health and Justice Transformation to conduct a Sequential Intercept Mapping (SIM) workshop, which was facilitated by Policy Research Associates, Inc. That workshop helped the community better understand its criminal justice system and identify the county’s limitations and gaps with regard to diverting people with mental illness from the criminal justice system and service delivery.
 
-Following this, the committee received federal grant funds to hire a full-time CIT coordinator. The CIT coordinator acts as a liaison among law enforcement, legal agencies, and mental health agencies, to provide support and address problems in order to reduce the impact of allegedly mentally ill individuals on these systems. 
+Following this, the committee received federal grant funds to hire a full-time CIT coordinator. The CIT coordinator acts as a liaison among law enforcement, legal agencies, and mental health agencies, to provide support and address problems in order to reduce the impact of allegedly mentally ill individuals on these systems.
 
 A full-time CIT coordinator was hired and began working at the Bend Police Department at the end of 2013. The grant-funded position will end on March 31, 2016, but the CIT Steering Committee and the City of Bend Police Department are committed to continuing the training on an annual basis for local and regional law enforcement officers.
 

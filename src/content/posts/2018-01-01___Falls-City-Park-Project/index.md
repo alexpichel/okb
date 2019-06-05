@@ -6,7 +6,8 @@ logo: /assets/agency/polk-sheriff-logo2.png
 author: "Sgt. Todd Fenk"
 agency: "Polk County Sheriff's Office"
 agencyid: "polk-s"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "CPTED"
   - "Crime Prevention"

@@ -7,7 +7,8 @@ logo: /assets/agency/grantspass-pd-logo.png
 author: "Lt. Joe Smith"
 agencyID: "grants-pass-ps"
 agency: "Grants Pass Department of Public Safety"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Chronic Nuisance"
   - "Quality of Life"

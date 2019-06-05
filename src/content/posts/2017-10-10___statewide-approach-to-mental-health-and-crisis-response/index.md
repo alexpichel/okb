@@ -5,7 +5,8 @@ cover: /assets/policing.png
 logo: /assets/agency/oacp-ossa-logos.png
 author: "Chief Jim Ferraris, Woodburn Police Department"
 agency: "Oregon Association of Chiefs of Police & Oregon State Sheriff's Association"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Crisis Intervention"
   - "Mental Illness"

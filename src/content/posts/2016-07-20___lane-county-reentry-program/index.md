@@ -6,7 +6,8 @@ logo: /assets/agency/lane-logo.png
 author: "Donovan Dumire, Community Corrections Manager"
 agencyid: "lane-cc"
 agency: "Lane County Community Corrections"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Reentry"

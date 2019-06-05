@@ -6,7 +6,8 @@ logo: /assets/agency/bend-pd-logo.png
 author: "Lt. Brian Beekman"
 agencyID: "bend-pd"
 agency: "Bend Police Department"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Training"
   - "Wellness"

@@ -6,7 +6,8 @@ logo: /assets/agency/marion-logo.png
 author: "Cmdr. Tad Larson"
 agencyid: "marion-s"
 agency: "Marion County Sheriff's Office"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Crisis Intervention"
   - "Mental Illness"

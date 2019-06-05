@@ -6,7 +6,8 @@ logo: /assets/agency/clackamas-sheriff-logo.png
 author: "Mike Palmer, Administrative Services Manager"
 agencyid: "clackamas-s"
 agency: "Clackamas County Sheriff's Office"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Domestic Violence"
   - "Family Violence"

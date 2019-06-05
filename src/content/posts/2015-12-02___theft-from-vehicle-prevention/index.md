@@ -6,7 +6,8 @@ logo: /assets/agency/eugene-pd-logo.png
 author: "Debbie Janecek, Prevention and Safety Acting Supervisor"
 agencyid: "eugene-pd"
 agency: "Eugene Police Department"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Crime Prevention"
   - "Property Crime"

@@ -6,7 +6,8 @@ logo: /assets/agency/ppb.png
 agency: "Portland Police Bureau"
 agencyid: "ppb"
 author: "Sgt. Greg Stewart"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Crime Prevention"
   - "Community Outreach"
@@ -17,7 +18,7 @@ subTitle: ""
 #### PROBLEMATIC BEHAVIOR OR ACTIVITY
 
 Since 2009, the City of Portland has seen a significant rise in crime and calls for service. Uniform Crime Report Part I crimes rose 8.8% from 2009 to 2013 and calls for service increased 7.7%.  This increase in crime and calls for service come at a time of diminishing police resources. From 2009 to 2013, the number of uniformed PPB patrol officers declined by 5.9 %.
-These contrasting trends—a higher number of service calls being managed with fewer and fewer resources—necessitates that the PPB explore alternative strategies for allocating patrol resources to the areas of greatest need. One approach that has proved successful in other cities involves the use of GIS mapping and advanced data analysis to identify crime “hot spots.” In Portland, the PPB found 157 locations, or 1.1 %, of the city’s geography, that accounted for 19 percent of the calls for service and 18 percent of reported crimes. 
+These contrasting trends—a higher number of service calls being managed with fewer and fewer resources—necessitates that the PPB explore alternative strategies for allocating patrol resources to the areas of greatest need. One approach that has proved successful in other cities involves the use of GIS mapping and advanced data analysis to identify crime “hot spots.” In Portland, the PPB found 157 locations, or 1.1 %, of the city’s geography, that accounted for 19 percent of the calls for service and 18 percent of reported crimes.
 
 While information on "hot spots" may lead to a more effective use of police resources, it also has the potential to raise concerns among citizens. Residents living in high-crime areas of Portland are disproportionately from lower socioeconomic backgrounds and belong to racial and ethnic minority groups. Flooding these areas with additional officers may erode public trust in the police, regardless of any impact on crime rates.
 
@@ -36,7 +37,7 @@ Both the national and local contexts, therefore, generated significant concerns 
 
 Neighborhood Involvement Locations combines the directed-patrol technique of hot-spot policing with tactical approaches from community policing. Rather than “stop and frisk” or investigative actions, the chief asked that patrol officers prioritize non-investigative contacts in the city’s high-crime areas. The goal was to increase contacts between residents of Portland and the members of the PPB, especially in areas with high levels of crime and disorder or areas where the public had high levels of distrust in the police. Ideally, increased foot patrols and time spent on non-­investigative types of interactions (walk and talks, social contacts, and other casual contacts) would both deter crime and improve the relationship between police and the public.
 
-More specifically, the chief's primary goal was to increase non­-investigative interactions between citizens and street officers in high-crime areas using pre-programmed computer-aided dispatch (CAD) calls. Officers were dispatched to select locations throughout the day and instructed to spend 15 minutes there, ideally engaging with residents and businesses in positive interactions. 
+More specifically, the chief's primary goal was to increase non­-investigative interactions between citizens and street officers in high-crime areas using pre-programmed computer-aided dispatch (CAD) calls. Officers were dispatched to select locations throughout the day and instructed to spend 15 minutes there, ideally engaging with residents and businesses in positive interactions.
 
 The defining features of this program are the use of pre­programmed CAD calls and emphasizing foot patrol and community engagement. By utilizing these calls, the PPB demonstrates that community engagement is as central to its policing philosophy as its response to calls for service is.
 

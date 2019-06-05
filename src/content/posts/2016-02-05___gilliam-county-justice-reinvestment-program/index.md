@@ -6,7 +6,8 @@ logo: /assets/agency/gilliam.png
 author: "Sheriff Gary Bettencourt"
 agencyid: "gilliam-s"
 agency: "Gilliam County Sheriff's Office"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Recidivism"

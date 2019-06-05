@@ -6,7 +6,8 @@ author: "Community Policing Officer Dala Johnson"
 agencyID: "lebanon-pd"
 agency: "Lebanon Police Department"
 cover: /assets/policing.png
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Chronic Nuisance"
   - "Homeless"

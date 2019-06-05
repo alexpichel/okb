@@ -6,7 +6,8 @@ logo: /assets/agency/washington-logo.png
 author: "Sgt. Dustin Sluman"
 agencyid: "washington-s"
 agency: "Washington County Sheriff's Office"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Crisis Intervention"
   - "Mental Illness"

@@ -6,7 +6,8 @@ logo: /assets/agency/florence-pd-logo.jpg
 agency: "Florence Police Department"
 agencyid: "florence-pd"
 author: "Sgt. Brandon Ott"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Technology"
   - "Traffic Safety"

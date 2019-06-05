@@ -6,7 +6,8 @@ logo: /assets/agency/gresham-pd-logo.png
 author: "Officer James Leake"
 agencyid: "gresham-pd"
 agency: "Gresham Police Department"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Abandoned Property"
   - "Chronic Nuisance"

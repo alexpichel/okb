@@ -6,7 +6,8 @@ logo: /assets/agency/linn-logo.png
 author: "Tony Howell, Alcohol and Drug Program Manager"
 agencyid: "linn-cc"
 agency: "Linn County Community Corrections"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Alcohol"
   - "Drugs"

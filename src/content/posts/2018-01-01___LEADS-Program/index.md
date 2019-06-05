@@ -6,7 +6,8 @@ logo: /assets/agency/marion-sheriff-logo.png
 agency: "Marion County Sheriff's Office"
 agencyid: "marion-s"
 author: "Lt. Kevin Karvandi"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Diversion"
   - "Justice Reinvestment"

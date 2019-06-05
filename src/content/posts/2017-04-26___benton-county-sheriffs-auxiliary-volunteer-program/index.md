@@ -6,7 +6,8 @@ logo: /assets/agency/benton-logo.png
 author: "Sgt. Leslie Thilberg, Training & Recruiting"
 agency: "Benton County Sheriff's Office"
 agencyid: "benton-s"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Community Outreach"
   - "Training"

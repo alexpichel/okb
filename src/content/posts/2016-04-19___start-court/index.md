@@ -6,7 +6,8 @@ logo: /assets/agency/multnomah-logo.png
 author: "Natalie Reyes, Program Coordinator"
 agencyid: "mult-dcj"
 agency: "Multnomah County Department of Community Justice"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Specialty Court"
   - "Supervision"

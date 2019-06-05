@@ -6,7 +6,8 @@ logo: /assets/agency/lincoln-logo.png
 author: "Suzi Gonzales, Director of Community Justice"
 agencyid: "lincoln-cc"
 agency: "Lincoln County Community Corrections"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Reentry"

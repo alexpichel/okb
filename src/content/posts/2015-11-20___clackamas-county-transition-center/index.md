@@ -6,7 +6,8 @@ logo: /assets/agency/clackamas-sheriff-logo.png
 author: "Undersheriff Chris Hoy"
 agencyid: "clackamas-cc"
 agency: "Clackamas County Community Corrections"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Mental Illness"

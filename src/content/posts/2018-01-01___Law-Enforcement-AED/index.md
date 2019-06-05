@@ -6,7 +6,8 @@ logo: /assets/agency/prineville-pd.png
 agency: "Prineville Police Department"
 agencyid: "prineville-pd"
 author: "Sgt. Troy Wiles"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Medical Response"
   - "Technology"

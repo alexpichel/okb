@@ -6,7 +6,8 @@ logo: /assets/agency/ppb.png
 author: "Brent Bates, RAPID Program Coordinator"
 agencyid: "ppb"
 agency: "Portland Police Bureau"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Property Crime"
   - "Technology"

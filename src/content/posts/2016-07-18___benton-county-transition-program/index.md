@@ -6,7 +6,8 @@ logo: /assets/agency/benton-logo.png
 author: "Justin Carley, Community Corrections Director"
 agencyid: "benton-s"
 agency: "Benton County Sheriff's Office"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Reentry"

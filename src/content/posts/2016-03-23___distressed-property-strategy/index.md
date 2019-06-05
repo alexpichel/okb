@@ -6,7 +6,8 @@ logo: /assets/agency/ppb.png
 author: "Sgt. Randy Teig"
 agencyid: "ppb"
 agency: "Portland Police Bureau"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Abandoned Property"
   - "Quality of Life"

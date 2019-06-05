@@ -7,7 +7,8 @@ logo: /assets/agency/corvallis-pd-logo.png
 author: "Lt. Ryan Eaton"
 agencyID: "corvallis-pd"
 agency: "Corvallis Police Department"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Chronic Nuisance"
   - "Quality of Life"

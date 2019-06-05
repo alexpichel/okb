@@ -6,7 +6,8 @@ logo: /assets/agency/yamhill-logo.png
 author: "Brian Rucker, Community Justice Manager"
 agencyid: "yamhill-dcj"
 agency: "Yamhill County Department of Community Justice"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Pre-sentence"

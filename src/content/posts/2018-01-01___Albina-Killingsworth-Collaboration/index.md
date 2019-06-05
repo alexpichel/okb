@@ -6,7 +6,8 @@ logo: /assets/agency/ppb.png
 author: "Cmdr. Mike Leloff"
 agency: "Portland Police Bureau"
 agencyid: "ppb"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Chronic Nuisance"
   - "Quality of Life"

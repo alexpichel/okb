@@ -6,7 +6,8 @@ logo: /assets/agency/ppb.png
 agency: "Portland Police Bureau"
 agencyid: "ppb"
 author: "Sgt. Greg Stewart"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Chronic Nuisance"
   - "Property Crime"
@@ -45,13 +46,13 @@ The results of this survey were presented at community events such as the Parkro
 
 Based on community feedback, the PPB Crime Analysis Unit did a Calls for Service (CFS) analysis of NE Sandy and found the following:
 
-* The motel near NE 112th and Sandy was the highest call generator in the area with 87 calls between January 2017 and February 2017. 
+* The motel near NE 112th and Sandy was the highest call generator in the area with 87 calls between January 2017 and February 2017.
 
-* The bar across the street from the motel (26 CFS) and the lottery establishment adjacent to the motel (20 CFS) also generated a large number of calls. 
+* The bar across the street from the motel (26 CFS) and the lottery establishment adjacent to the motel (20 CFS) also generated a large number of calls.
 
 * A pocket near NE 102nd and Sandy Blvd. was identified as having a heavy call load. The issues identified centered around NE 115th and NE Sandy Blvd. form a triangle where the combination of motels, bars and lottery venues encouraged criminal activity. The pocket near NE 102 and Sandy Blvd appeared related to the issues at the cemetery.
 
-The public safety survey results supported this analysis. 64% of survey respondents identified this area as the most problematic in Parkrose Neighborhood. 
+The public safety survey results supported this analysis. 64% of survey respondents identified this area as the most problematic in Parkrose Neighborhood.
 
 For more information, please see [map](./Parkrose-map.pdf).
 
@@ -64,7 +65,7 @@ The program attempted to utilize a problem-oriented policing (POP) approach on t
 * Parkrose Business Alliance (PBA)
 * Historic Parkrose
 
-Marx Rd. was addressed by limiting parking after business hours and limiting parking in the area for recreational vehicles. This allowed the large scale encampments which had become entrenched in the area to be addressed. 
+Marx Rd. was addressed by limiting parking after business hours and limiting parking in the area for recreational vehicles. This allowed the large scale encampments which had become entrenched in the area to be addressed.
 
 A series of enforcement efforts were conducted in the area of NE 110th to 115th avenue and NE Sandy Blvd, resulting in over 20 arrests, the recovery of multiple ounces of heroin and other narcotics, prostitution arrests and arrests for unlawful use of a motor vehicle. To maintain these gains, community groups hired a security guard being to patrol this intersection.
 
@@ -72,9 +73,9 @@ To address the issues near the cemetery local home owners, a marijuana dispensar
 
 #### BASED ON RESEARCH
 
-The issues identified and tactics used to address them were identified by community members. A community advisory panel was also formed to help ensure the program remains focused on the issues important to area stakeholders. 
+The issues identified and tactics used to address them were identified by community members. A community advisory panel was also formed to help ensure the program remains focused on the issues important to area stakeholders.
 
-Second, the approach is grounded in problem-oriented policing (POP) and also employs high visibility patrol/hot spot policing principles. 
+Second, the approach is grounded in problem-oriented policing (POP) and also employs high visibility patrol/hot spot policing principles.
 
 This initiative borrowed ideas found in the programs related to the [Hot Spots Policing - Practice Profile](https://www.crimesolutions.gov/PracticeDetails.aspx?ID=8) on crimesolutions.gov
 
@@ -86,7 +87,7 @@ PPB efforts were primarily funded through a micro-grant from the Oregon Departme
 
 #### PROGRAM IMPACT
 
-The program was very successful at reducing property crime and societal type crimes (National Incident Based Reporting Crime categories) in Parkrose. City-wide property crime was down 2.93% and society crime was down 8.86% in a pre-post comparison looking at September to November and comparing it with June through August of 2017. By comparison property crime in Parkrose fell 28.73% and societal crime dropped 38.71% during the same time frame. While crime was falling citywide during this time, Parkrose saw a much larger decreases in crime and disorder than the rest of the City of Portland. 
+The program was very successful at reducing property crime and societal type crimes (National Incident Based Reporting Crime categories) in Parkrose. City-wide property crime was down 2.93% and society crime was down 8.86% in a pre-post comparison looking at September to November and comparing it with June through August of 2017. By comparison property crime in Parkrose fell 28.73% and societal crime dropped 38.71% during the same time frame. While crime was falling citywide during this time, Parkrose saw a much larger decreases in crime and disorder than the rest of the City of Portland.
 
 To help determine if this was due to the initiative one of the areas (the area surrounding NE 112th and NE Sandy) was examined. The area observed a 25% reduction in property crime and a 50% reduction in societal offenses. While it is not possible to attribute the entire drop of crime and disorder in the neighborhood to this initiative, it does appear that the POP efforts were associated with the reduction.
 

@@ -5,7 +5,8 @@ cover: /assets/correctional.png
 logo: /assets/agency/pactt.png
 author: "Kathy Loter, PACTT Program Director"
 agency: "DoveLewis Emergency Animal Hospital"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "specialty courts"
   - "service animals"

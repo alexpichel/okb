@@ -6,7 +6,8 @@ logo: /assets/agency/douglas-logo.png
 author: "Joseph Garcia, Community Corrections Director"
 agencyid: "douglas-s"
 agency: "Douglas County Sheriff's Office"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Jail"
   - "Justice Reinvestment"

@@ -6,7 +6,8 @@ logo: /assets/agency/ppb.png
 author: "Sgt. Erik Strohmeyer"
 agencyID: "ppb"
 agency: "Portland Police Bureau"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Assault"
   - "Chronic Nuisance"

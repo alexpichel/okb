@@ -6,7 +6,8 @@ logo: /assets/agency/yamhill-logo.png
 author: "Jessica Beach, Community Justice Director"
 agencyid: "yamhill-dcj"
 agency: "Yamhill Department of Community Justice"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Pretrial Release"
   - "Technology"

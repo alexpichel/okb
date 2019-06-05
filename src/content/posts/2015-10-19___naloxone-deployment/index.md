@@ -6,7 +6,8 @@ logo: /assets/agency/medford-police-logo.png
 author: "Sgt. Geoff Kirkpatrick & Cpl. Chris Dode"
 agencyID: "medford-pd"
 agency: "Medford Police Department"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Drugs"
   - "Medical Response"

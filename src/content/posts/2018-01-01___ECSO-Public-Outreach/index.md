@@ -6,7 +6,8 @@ logo: /assets/agency/ecso-logo.jpg
 author: "Jeanette Giossi, Dispatch Supervisor"
 agency: "Emergency Communications of Southern Oregon"
 agencyid: "ecomm"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Community Outreach"
   - "Dispatch"

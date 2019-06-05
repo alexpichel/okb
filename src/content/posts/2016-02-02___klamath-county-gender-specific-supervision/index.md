@@ -6,7 +6,8 @@ logo: /assets/agency/klamath-county-logo.png
 author: "Kiki Parker-Rose, Director"
 agencyid: "klamath-cc"
 agency: "Klamath County Community Corrections"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Specialized Caseload"
   - "Supervision"

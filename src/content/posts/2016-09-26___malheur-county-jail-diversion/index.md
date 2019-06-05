@@ -6,7 +6,8 @@ logo: /assets/agency/malheur-logo.png
 author: "Lt. Debbie Hust"
 agencyid: "malheur-s"
 agency: "Malheur County Sheriff's Office"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Jail"
   - "Justice Reinvestment"

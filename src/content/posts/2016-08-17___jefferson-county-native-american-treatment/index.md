@@ -6,7 +6,8 @@ logo: /assets/agency/jefferson-logo.png
 author: "Kurt Symons, Director"
 agencyid: "jefferson-cc"
 agency: "Jefferson County Community Corrections"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Alcohol"
   - "Drugs"

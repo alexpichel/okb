@@ -6,7 +6,8 @@ logo: /assets/agency/sherwood-pd-logo.PNG
 author: "Chief Jeffrey Goth"
 agencyID: "sherwood-p"
 agency: "Sherwood Police Department"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Victims"
   - "K9"
@@ -27,7 +28,7 @@ Fast forward to Christmas night 2016, when a gunman shot his estranged wife and 
 Then in October 2017, just ten months after the Christmas shooting, a 4-year old boy was run over and killed in the parking lot of a Sherwood multi-family housing complex. Unique to this incident was that officers attempted life-saving efforts and the trauma of the victim's death and his family’s grief all unfolded in the parking lot and was handled by the Sherwood first responders, one of whom was also involved in the Christmas shooting
 
 #### IMPACT ON THE COMMUNITY
-Decreased police effectiveness and efficiency 
+Decreased police effectiveness and efficiency
 High psychological demands affect police officers’ performance, tolerance, and overall ability to police the community. When police officers are carrying an excessive psychological burden, they will not have the capacity to be the officers the community expects and needs. As the problem worsens, they may actually become unable to perform, which creates a financial impact by the loss of staffing. In the worst cases, the community may suffer the loss of the officer to stress-related claims, early retirement, early illness, or fatality, including suicide.
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
@@ -37,12 +38,12 @@ The Comfort K-9 program includes the unique deployment of a specifically selecte
 The program requires dedication, including a large commitment of time, training, patience, and love, to be successful. Points of consideration include:
 
 * Identifying K-9 job tasks
-* Securing the necessary funding for the dog and program (lifetime) 
-* Picking the right dog for your program 
-* Selecting the right trainer, and training philosophy, for the department and dog 
+* Securing the necessary funding for the dog and program (lifetime)
+* Picking the right dog for your program
+* Selecting the right trainer, and training philosophy, for the department and dog
 * Tailoring the program to best fit the department and situation
 * Determining how the dog will be "managed" or handled (we chose to not restrict the dog to a single handler)
-* Selecting the Care Team for the dog and program 
+* Selecting the Care Team for the dog and program
 * Developing the necessary policies, procedures and/or agreements for the program
 
 #### FUNDING
@@ -57,14 +58,14 @@ Within the last thirty days, one of the officers interviewed a survivor of domes
 “On Monday I responded to an assault call. After contacting the victim, I discovered that she had actually been strangled and she agreed to meet me at the police department for a face-to-face interview.
 As we conversed, I could see that the victim was periodically holding in her emotions. Certain questions and recollections would cause her voice to change, delay her responses, her eyes to look away and I could see her swallowing the lump in her throat. She was trying her best to remain even keel.
 
-Then Mila entered the room. 
+Then Mila entered the room.
 
 Mila trotted into the room, bypassed me, and went straight over to my victim. Without any coaxing or commands, Mila up and plopped her head on my victim’s leg.
 I explained who Mila was and her purpose here with the Police Department. My victim disengaged from the conversation, leaned over, and was giving Mila scratches behind her ears. As I finished explaining why Mila was there and the comfort that she’s supposed to bring to people that have experienced incidents like hers, my victim sat back up and stated with tears in her eyes “It’s working.”
 It only took a few seconds of interaction for Mila to have a huge impact on my victim and her ability to get through the interview process. In the end, it made it easier to do my job as well.”
 
 #### CRITICAL SUCCESS FACTORS
-We recommend departments seriously consider adding a Comfort K-9 to their Officer Wellness programs, but take the time and do it right. We recommend departments hand select their dog and trainer, and avoid those groups and/or people that pre-train and then ship a "trained" dog. 
+We recommend departments seriously consider adding a Comfort K-9 to their Officer Wellness programs, but take the time and do it right. We recommend departments hand select their dog and trainer, and avoid those groups and/or people that pre-train and then ship a "trained" dog.
 It is critically important that the comfort dog be trained with positive, reward-based methods. When working with dogs taught to provide emotional support and comfort to humans they interact with on a daily basis, we believe it is imperative to use only positive reinforcement based training methods and avoid aversive tools such as e-collars, prong or choke collars, sound correctors or physical correction.
 As mentioned earlier we felt it was a better use of the resource to utilize a “care team” instead of a specific, single handler.
 

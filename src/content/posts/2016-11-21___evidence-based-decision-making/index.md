@@ -6,7 +6,8 @@ logo: /assets/agency/yamhill-logo.png
 author: "Jessica Beach, Community Justice Director"
 agencyid: "yamhill-cc"
 agency: "Yamhill County Community Corrections"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Pre-sentence"

@@ -6,7 +6,8 @@ logo: /assets/agency/norcor-logo.png
 author: "Bryan Brandenburg, Administrator"
 agencyid: "norcor"
 agency: "Northern Oregon Regional Correction Facility"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Jail"
   - "Justice Reinvestment"

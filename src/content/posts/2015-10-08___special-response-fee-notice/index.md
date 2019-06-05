@@ -6,7 +6,8 @@ logo: /assets/agency/corvallis-pd-logo.png
 author: "Community Livability Team"
 agencyID: "corvallis-pd"
 agency: "Corvallis Police Department"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Chronic Nuisance"
   - "Quality of Life"

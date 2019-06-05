@@ -6,7 +6,8 @@ logo: /assets/agency/harney-cc-logo.png
 author: "Lodi Presley, Director"
 agencyid: "harney-cc"
 agency: "Harney County Community Corrections"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Justice Reinvestment"
   - "Reentry"

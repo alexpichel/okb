@@ -6,7 +6,8 @@ logo: /assets/agency/clackamas-sheriff-logo.png
 author: "Lt. Angie Brandenburg"
 agencyID: "clackamas-s"
 agency: "Clackamas County Sheriff's Office"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Domestic Violence"
   - "Victims"

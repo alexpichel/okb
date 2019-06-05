@@ -6,7 +6,8 @@ logo: /assets/agency/yamhill-logo.png
 agency: "Yamhill County Department of Community Justice"
 agencyid: "yamhill-dcj"
 author: "Brian Rucker, Community Justice Manager"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Supervision"
   - "Job Training"
@@ -33,11 +34,11 @@ EMPLOYMENT TRACK (READY TO WORK):
 Ready to Work (RTW) is an ongoing job development program that helps probation clients develop the tools necessary to find employment.  RTW consists of a three-tier System. In each of the tiers, clients participate in the program up to five days per week..
 
 **TIER 1 (T1): Intake & Assessment**
-In Tier 1, clients report to the DMC for a comprehensive intake interview at which time the DMC Coordinator obtains background information related to employment, skills, and other pertinent history.  In T1, the client is observed on punctuality, communication, time management, and following directions. 
+In Tier 1, clients report to the DMC for a comprehensive intake interview at which time the DMC Coordinator obtains background information related to employment, skills, and other pertinent history.  In T1, the client is observed on punctuality, communication, time management, and following directions.
 
 The following activites take place in T1:
- * Review of program requirements and setting individual goals with action steps. In T1, clients are 
- * Referral to meet on-site with Goodwill Industries to develop a résumé and access additional resources. 
+ * Review of program requirements and setting individual goals with action steps. In T1, clients are
+ * Referral to meet on-site with Goodwill Industries to develop a résumé and access additional resources.
  * Registration with the iMatchSkills employment program through the Oregon Employment Department’s Worksource Oregon network.
  * Establishment of a reporting schedule
 
@@ -45,9 +46,9 @@ The DMC coordinator may promote the client to Tier 2 upon verification of compli
 
 **TIER 2 (T2): Skill Building & Job Search**
 In T2, clients focus on job search, accountability, and skill building. The DMC coordinator works with the client to enhance employability, a process that may include:
-* Work with interview skills, 
-* Hygiene/presentation, and 
-* Application techniques. 
+* Work with interview skills,
+* Hygiene/presentation, and
+* Application techniques.
 
 In T2, the coordinator also works with the client on money management and budgeting skills, developing a budget that can be modified throughout their time at DMC and beyond. Additionally, the job search begins during T2, and clients are required to submit a minimum of three new applications per day. The goal of T2 is to secure employment. Once a client has obtained employment, the coordinator evaluates the client for promotion to Tier 3.
 
@@ -59,7 +60,7 @@ The client reports weekly (at minimum) by phone to the DMC coordinator for 45 da
 Upon successful completion of T3, the client participates in a graduation ceremony with other RTW clients.
 
 EDUCATION TRACK:
-The Education Track focuses on connecting the client with local resources in order to pursue a GED, vocational schooling, or other educational opportunities. 
+The Education Track focuses on connecting the client with local resources in order to pursue a GED, vocational schooling, or other educational opportunities.
 
 INTENSIVE SUPERVISION TRACK:
 The Intensive Supervision Track targets the unmotivated high-risk client who needs additional structure and would benefit from greater involvement from the Community Justice Department. A focus of this track is on motivation for change and is often done in conjunction with a PO referral to the motivational/cognitive restructuring program track (see DMC program flowchart under “Supporting Documents”). Clients in the Intensive Supervision Track are continually reassessed by the coordinator and can move to the Education or Employment Track at any time or participate in both, at the coordinator’s discretion.
@@ -119,5 +120,5 @@ The DMC caseload averages 30 clients at any given time. Most are medium- or high
  - [DMC Behavior Response Grid](./DMC_Behavior_Response_Grid.pdf)
  - [DMC Brochure](./DMC_Brochure_Revised.pdf)
  - [DMC Policies](./DMC_Policies.pdf)
- 
+
 

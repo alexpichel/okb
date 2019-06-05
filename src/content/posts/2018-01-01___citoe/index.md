@@ -4,11 +4,12 @@ date: "2018-05-01"
 cover: /assets/policing.png
 logo: /assets/agency/CITCOE Logo 3.png
 agency: "GOBHI & DPSST"
-# author: 
+# author:
 #   - "Eilene Flory, GOBHI Criminal Justice/Behavioral Health Liaison"
 #   - "Linda Maddy, DPSST CIT Coordinator"
 #   - "Kevin Rau, DPSST CIT Coordinator"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Crisis Intervention"
   - "Mental Illness"
@@ -33,7 +34,7 @@ Crisis Intervention Team Center of Excellence (CITCOE) provides structure, suppo
 
 #### BASED ON RESEARCH
 
-The [“Memphis Model”](www.cit.memphis.edu) of CIT training includes 40 hours of oral and visual presentations, scenario-based training, and interactions with the local affiliate of the National Alliance on Mental Illness. 
+The [“Memphis Model”](www.cit.memphis.edu) of CIT training includes 40 hours of oral and visual presentations, scenario-based training, and interactions with the local affiliate of the National Alliance on Mental Illness.
 
 #### FUNDING
 

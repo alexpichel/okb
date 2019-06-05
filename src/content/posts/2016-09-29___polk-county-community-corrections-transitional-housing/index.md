@@ -6,7 +6,8 @@ logo: /assets/agency/polk-sheriff-logo2.png
 author: "Angel Pairan, Caseload Specialist"
 agencyid: "polk-s"
 agency: "Polk County Sheriff's Office"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Housing"
   - "Justice Reinvestment"

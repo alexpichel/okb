@@ -6,7 +6,8 @@ logo: /assets/agency/portland-logo.png
 author: "Meg Juarez, Crime Prevention Coordinator"
 agency: "Portland Crime Prevention and Livability Programs"
 agencyid: "ppb"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Crime Prevention"
   - "CPTED"

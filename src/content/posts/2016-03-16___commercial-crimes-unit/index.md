@@ -6,7 +6,8 @@ logo: /assets/agency/tigard-pd-logo.png
 author: "Sgt. Leigh Erickson"
 agencyid: "tigard-pd"
 agency: "Tigard Police Department"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Crime Prevention"
   - "Property Crime"

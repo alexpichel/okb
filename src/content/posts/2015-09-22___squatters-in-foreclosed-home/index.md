@@ -8,7 +8,8 @@ path: "/posts/squatters-in-foreclosed-homes/"
 author: "Sgt. Bob Trump"
 agencyID: "keizer-pd"
 agency: "Keizer Police Department"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Abandoned Property"
   - "Quality of Life"
