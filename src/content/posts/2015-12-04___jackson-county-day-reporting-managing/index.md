@@ -6,8 +6,7 @@ logo: /assets/agency/jackson-sheriff-logo.png
 author: "Jodi Merritt, Research/Project Analyst"
 agencyid: "jackson-cj"
 agency: "Jackson County Community Justice"
-categories:
-  - "Correctional"
+category: "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Pretrial Release"

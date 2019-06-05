@@ -5,8 +5,7 @@ cover: /assets/correctional.png
 logo: /assets/agency/multnomah-logo.png
 author: "John Dieter, Director"
 agency: "Oregon Judicial Department"
-categories:
-  - "Correctional"
+category: "Correctional"
 tags:
   - "Supervision"
   - "Specialty Court"

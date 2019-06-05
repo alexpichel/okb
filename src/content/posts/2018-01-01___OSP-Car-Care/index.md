@@ -1,13 +1,15 @@
 ---
 title: "Oregon State Police Car Care Program"
-date: "2018-01-01"
+date: "2018-04-09"
 cover: /assets/policing.png
 logo: /assets/agency/osp-logo.png
-categories:
-  - "Policing"
+agency: "Oregon State Police"
+agencyid: "osp"
+author: "Major David Anderson"
+category: "Policing"
 tags:
-  - "community outreach"
-  - "traffic safety"
+  - "Community Outreach"
+  - "Traffic Safety"
 subTitle: "Vouchers provided to motorists cited for equipment violations  in order to lower the cost of minor repairs."
 ---
 
@@ -41,3 +43,7 @@ Budget is minimal – the small printing cost of the vouchers.
 
 The program has received positive feedback from the public and media. A better picture of impact will be developed as time passes and the program hopefully expands to additional LE agencies and auto parts retailers.
 
+#### ADDITIONAL DOCUMENTS
+
+* [Participant Poster](./Participant-Poster-draft.pdf)
+* [Car Voucher Example](./voucherExample.png)

@@ -6,8 +6,7 @@ logo: /assets/agency/ppb.png
 author: "Sgt. Jim Quackenbush"
 agencyID: "ppb"
 agency: "Portland Police Bureau"
-categories:
-  - "Policing"
+category: "Policing"
 tags:
   - "Assault"
   - "Chronic Nuisance"

@@ -5,8 +5,7 @@ cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
 agencyid: "psu"
 agency: "Portland State University - 2012"
-categories:
-  - "Research"
+category: "Research"
 tags:
   - "Crime Analysis"
   - "Oregon Research"

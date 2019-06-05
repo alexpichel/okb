@@ -6,8 +6,7 @@ logo: /assets/agency/clackamas-sheriff-logo.png
 author: "Community Service Officer Sara McClurg, Crime Prevention Coordinator"
 agencyid: "clackamas-s"
 agency: "Clackamas County Sheriff's Office"
-categories:
-  - "Policing"
+category: "Policing"
 tags:
   - "Homeless"
   - "Quality of Life"
@@ -54,4 +53,4 @@ Be clear with businesses and other properties who wish to enroll in this program
 
 #### ADDITIONAL DOCUMENTS
 
-[Criteria for Exclusion](CRITERIA_FOR_EXCLUSION_FROM_BUSINESSES.pdf)
+[Criteria for Exclusion](./CRITERIA_FOR_EXCLUSION_FROM_BUSINESSES.pdf) 

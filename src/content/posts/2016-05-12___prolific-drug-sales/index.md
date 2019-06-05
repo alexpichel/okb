@@ -3,10 +3,10 @@ title: "Prolific Drug Sales"
 date: "2016-05-12"
 cover: /assets/policing.png
 logo: /assets/agency/keizer-pd-logo.png
+author: "Sgt. Bob Trump"
 agencyid: "keizer-pd"
 agency: "Keizer Police Department"
-categories:
-  - "Policing"
+category: "Policing"
 tags:
   - "Drugs"
   - "Chronic Nuisance"

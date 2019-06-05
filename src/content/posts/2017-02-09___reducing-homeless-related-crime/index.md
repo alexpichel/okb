@@ -2,9 +2,10 @@
 title: "Reducing Homeless-Related Crime"
 date: "2017-02-09"
 cover: /assets/research.png
-logo: /assets/agency/psu-logo.png
-categories:
-  - "Research"
+logo: /assets/agency/research.png
+agencyid: "upenn"
+agency: "University of Pennsylvania - 2009"
+category: "Research"
 tags:
   - "crime prevention"
   - "transients"
@@ -48,4 +49,4 @@ The interventions produced a small reduction in crime, with no apparent displace
 
 #### CITATION
 
-Berk, R., & MacDonald, J. (2010). Policing the homeless: An evaluation of efforts to reduce homeless‐related crime. Criminology & Public Policy, 9(4), 813-840.
+Berk, R., & MacDonald, J. (2010). [Policing the homeless: An evaluation of efforts to reduce homeless‐related crime](http://www-stat.wharton.upenn.edu/~berkr/cops%20copy.pdf). Criminology & Public Policy, 9(4), 813-840.

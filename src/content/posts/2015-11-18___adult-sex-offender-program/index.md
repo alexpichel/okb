@@ -6,8 +6,7 @@ logo: /assets/agency/linn-logo.png
 author: "Maureen Robb, Director"
 agencyid: "linn-cc"
 agency: "Linn County Community Corrections"
-categories:
-  - "Correctional"
+category: "Correctional"
 tags:
   - "Sex Offenders"
   - "Supervision"

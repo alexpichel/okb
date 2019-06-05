@@ -1,13 +1,15 @@
 ---
-title: "Emergency Communications of Southern Oregon Public Outreach"
-date: "2018-01-01"
+title: "Telecommunications Public Outreach"
+date: "2018-10-09"
 cover: /assets/policing.png
 logo: /assets/agency/ecso-logo.jpg
-categories:
-  - "Policing"
+author: "Jeanette Giossi, Dispatch Supervisor"
+agency: "Emergency Communications of Southern Oregon"
+agencyid: "ecomm"
+category: "Policing"
 tags:
-  - "community outreach"
-  - "dispatch"
+  - "Community Outreach"
+  - "Dispatch"
 subTitle: "Outreach programs were utilized to educate citizens on the various ways to contact emergency service, leading to a more efficient use of the 911 and the non-emergency numbers."
 ---
 
@@ -30,7 +32,7 @@ Lastly, we were on the cusp of implementing the ability to take Text Messages to
 
 Our strategy was to rebrand our agency in preparation to to push our message by going out into the public and meeting the citizens face-to-face to chat with them about the issues at hand and recruit them to relay our message to all of their friends, neighbors and family members. We also wanted to invite citizen groups into our center to see for themselves what exactly we do and how we do it. In addition, we wanted to start a social media campaign in which would gain followers who we could then educate on these important matters.
 
-#### FUNDING
+#### BASED ON RESEARCH
 
 [APCO International: Public Education Tools for Telecommunicators](https://www.apcointl.org/resources/911-info/9-1-1-public-information/public-education-tools-for-telecommunicators/)
 
@@ -48,3 +50,7 @@ We would not have gotten this program off the ground had it not been for DPSST a
 #### LESSONS LEARNED
 
 You can keep your team engaged and interested in the program by making sure that everybody who wants to attend an event or speak at an engagement get that chance. Don’t always use the same 2-3 individuals, but make every effort to allow everybody a chance. Trust your team. We held our reigns pretty close at first, making sure that we had a member of management attend each event to make sure that our message to the public was consistent. Now, we send the team members out to events either in pairs or even alone with nobody in management tagging along. Since they feel trusted they are loyal, responsible and they feel important(which they are). Always listen to the ideas of your team members and try to implement them if possible so that they know they are a valued. Lastly, never make a unilateral decision, ask for their input and listen to them.
+
+#### ADDITIONAL DOCUMENTS
+
+* [Outreach Photos](./ECSO-outreach-photos.pdf)

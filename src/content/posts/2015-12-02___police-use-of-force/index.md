@@ -5,8 +5,7 @@ cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
 agencyid: "psu"
 agency: "Portland State University - 2013"
-categories:
-  - "Research"
+category: "Research"
 tags:
   - "Oregon Research"
   - "Policy"
@@ -54,4 +53,4 @@ The use of force by police has real, often tragic, consequences. The community d
 
 #### CITATION
 
-Stewart, G. (2013). A Quantitative Method for the Analysis of Constitutional Factors in Police Use of Force.
+Stewart, G. (2013). [A Quantitative Method for the Analysis of Constitutional Factors in Police Use of Force](./CFA-Final.pdf).

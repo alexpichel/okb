@@ -6,8 +6,7 @@ logo: /assets/agency/clatsop-logo.png
 author: "Lt. Kristen Hanthorn"
 agencyid: "clatsop-cc"
 agency: "Clatsop County Parole and Probation"
-categories:
-  - "Correctional"
+category: "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Supervision"

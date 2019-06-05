@@ -2,9 +2,10 @@
 title: "Reducing Criminal Activities at Rental Properties"
 date: "2017-02-09"
 cover: /assets/research.png
-logo: /assets/agency/dpsst.png
-categories:
-  - "Research"
+logo: /assets/agency/uc-logo.png
+agencyid: "uc"
+agency: "University of Cincinnati - 1998"
+category: "Research"
 tags:
   - "chronic nuisance"
   - "crime prevention"

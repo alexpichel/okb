@@ -6,8 +6,7 @@ logo: /assets/agency/grant-sheriff-logo.png
 author: "Dean Hoodenpyl, Director (Former)"
 agencyID: "grant-s"
 agency: "Grant County Community Corrections"
-categories:
-  - "Correctional"
+category: "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Restitution"

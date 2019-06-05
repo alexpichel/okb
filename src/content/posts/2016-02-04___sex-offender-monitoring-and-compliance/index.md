@@ -6,8 +6,7 @@ logo: /assets/agency/medford-police-logo.png
 author: "Officer Tom Sweeney"
 agencyid: "medford-pd"
 agency: "Medford Police Department"
-categories:
-  - "Policing"
+category: "Policing"
 tags:
   - "Sex Offenders"
   - "Supervision"

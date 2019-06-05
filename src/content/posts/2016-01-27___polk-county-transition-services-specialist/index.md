@@ -6,8 +6,7 @@ logo: /assets/agency/polk-sheriff-logo2.png
 author: "Martin D. Silbernagel, Director (Retired)"
 agencyid: "polk-cc"
 agency: "Polk County Community Corrections"
-categories:
-  - "Correctional"
+category: "Correctional"
 tags:
   - "Justice Reinvestment"
 subTitle: "The Transition Services Specialist acts as a service broker for medium- and high-risk felony offenders supervised by Polk County Community Corrections."

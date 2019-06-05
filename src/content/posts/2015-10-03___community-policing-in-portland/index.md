@@ -6,8 +6,7 @@ cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
 agencyID: "psu"
 agency: "Portland State University - 2000"
-categories:
-  - "Research"
+category: "Research"
 tags:
   - "Community Policing"
   - "Quality of Life"

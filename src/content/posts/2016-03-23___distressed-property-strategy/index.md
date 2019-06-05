@@ -6,8 +6,7 @@ logo: /assets/agency/ppb.png
 author: "Sgt. Randy Teig"
 agencyid: "ppb"
 agency: "Portland Police Bureau"
-categories:
-  - "Policing"
+category: "Policing"
 tags:
   - "Abandoned Property"
   - "Quality of Life"
@@ -92,4 +91,5 @@ When I designed the program, I interviewed and drew from the team members’ exp
 
 #### ADDITIONAL DOCUMENTS
 
-[2016 Goldstein Award Submission - Zombie Houses](https://popcenter.asu.edu/sites/default/files/16-01_portland.pdf)
+* [2016 Goldstein Award Submission - Zombie Houses](https://popcenter.asu.edu/sites/default/files/16-01_portland.pdf)
+* [Report Templates](./Report-templates-Distressed-Property-for-Knowledge-Bae.pdf)

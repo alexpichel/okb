@@ -5,8 +5,7 @@ cover: /assets/research.png
 logo: /assets/agency/ppb.png
 agencyid: "ppb"
 agency: "Portland Police Bureau - 2012"
-categories:
-  - "Research"
+category: "Research"
 tags:
   - "Mental Illness"
   - "Oregon Research"

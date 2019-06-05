@@ -1,15 +1,17 @@
 ---
 title: "Falls City Park Project"
-date: "2018-01-01"
+date: "2018-10-09"
 cover: /assets/policing.png
 logo: /assets/agency/polk-sheriff-logo2.png
-categories:
-  - "Policing"
+author: "Sgt. Todd Fenk"
+agency: "Polk County Sheriff's Office"
+agencyid: "polk-s"
+category: "Policing"
 tags:
   - "CPTED"
-  - "crime prevention"
-  - "quality of life"
-  - "technology"
+  - "Crime Prevention"
+  - "Quality of Life"
+  - "Technology"
 subTitle: "FLIR technology and increased community involvement addressed a number of livability issues associated with a city park."
 ---
 
@@ -27,7 +29,7 @@ This activity raised concern among many residences regarding the safety of the p
 
 #### PROGRAM DESCRIPTION
 
-This program was comprised of two main components; the first component was to involve community partners. The Sheriff’s Office worked with residents nearby to form a program, much like the [Neighborhood Park Watch program in Lebanon](/neighborhood-park-watch/) as well as with the Falls City public works in order to have signage installed outlining hours and allowable activities.
+This program was comprised of two main components; the first component was to involve community partners. The Sheriff’s Office worked with residents nearby to form a program, much like the [Neighborhood Park Watch program](/neighborhood-park-watch/) in Lebanon as well as with the Falls City public works in order to have signage installed outlining hours and allowable activities.
 
 The second component was to integrate police technology. Two handheld FLIR devices were purchased to assist with formal surveillance during nighttime responses. These FLIR devices were also used to enhance other police response, including Search and Rescue operations.
 
@@ -35,7 +37,7 @@ The second component was to integrate police technology. Two handheld FLIR devic
 
 * [Neighborhood Watch Programs](/neighborhood-watch-programs)
 * [CPTED – The Commercial Demonstration in Portland](/commercial-demonstration-in-portland-oregon/)
-* Reduced Lighting
+* [Crime reducing effects of improved lighting](/crime-reducing-effects-and-financial-impact-pf-improved-lighting/)
 
 #### FUNDING
 

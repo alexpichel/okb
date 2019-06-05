@@ -6,8 +6,7 @@ logo: /assets/agency/redmond-pd-logo.png
 author:  "Lt. Hank Majetich"
 agencyID: "redmond-pd"
 agency: "Redmond Police Department"
-categories:
-  - "Policing"
+category: "Policing"
 tags:
   - "Chronic Nuisance"
   - "CPTED"

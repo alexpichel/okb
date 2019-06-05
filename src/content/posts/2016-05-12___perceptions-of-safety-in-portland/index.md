@@ -5,8 +5,7 @@ cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
 agencyid: "psu"
 agency: "Portland State University - 2016"
-categories:
-  - "Research"
+category: "Research"
 tags:
   - "Community Outreach"
   - "Oregon Research"

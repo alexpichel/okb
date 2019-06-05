@@ -6,8 +6,7 @@ logo: /assets/agency/keizer-pd-logo.png
 author: "Lt. Andrew Copeland & Sgt. Bob Trump"
 agencyID: "keizer-pd"
 agency: "Keizer Police Department"
-categories:
-  - "Policing"
+category: "Policing"
 tags:
   - "Chronic Nuisance"
   - "CPTED"

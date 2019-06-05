@@ -6,8 +6,7 @@ logo: /assets/agency/bend-pd-logo.png
 author: "Sgt. Elizabeth Lawrence"
 agencyid: "bend-pd"
 agency: "Bend Police Department"
-categories:
-  - "Policing"
+category: "Policing"
 tags:
   - "Crisis Intervention"
   - "Mental Illness"

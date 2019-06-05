@@ -1,14 +1,17 @@
 ---
 title: "The Albina and Killingsworth Collaboration"
-date: "2018-01-01"
+date: "2015-09-22"
 cover: /assets/policing.png
 logo: /assets/agency/ppb.png
-categories:
-  - "Policing"
+author: "Cmdr. Mike Leloff"
+agency: "Portland Police Bureau"
+agencyid: "ppb"
+category: "Policing"
 tags:
-  - "chronic nuisance"
-  - "quality of life"
-  - "violent crime"
+  - "Chronic Nuisance"
+  - "Quality of Life"
+  - "Violent Crime"
+  - "Property Crime"
 subTitle: "Partnerships among area businesses, residents, educational institutions and the police developed a multi-pronged approach to create a move livable environment."
 ---
 
@@ -53,3 +56,7 @@ Community and Police collaboration as well as the involvement of local clergy, t
 #### LESSONS LEARNED
 
 It is important to take the time to thoroughly study the problem and develop the necessary relationships before attempting to address it.
+
+#### ADDITIONAL DOCUMENTS
+
+* [Goldstein Award Submission](./Goldstein_Award_Albina_Killingsworth_Submission.pdf)

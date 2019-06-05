@@ -6,8 +6,7 @@ logo: /assets/agency/multnomah-logo.png
 author: "Abbey Stamp, Executive Director"
 agencyid: "multnomah-lpscc"
 agency: "Multnomah County Local Public Safety Coordinating Council"
-categories:
-  - "Correctional"
+category: "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Pre-sentence"

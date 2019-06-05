@@ -6,8 +6,7 @@ logo: /assets/agency/marion-logo.png
 author: "Sgt. Anna Whitlock"
 agencyid: "marion-s"
 agency: "Marion County Sheriff's Office"
-categories:
-  - "Correctional"
+category: "Correctional"
 tags:
   - "Alcohol"
   - "Drugs"

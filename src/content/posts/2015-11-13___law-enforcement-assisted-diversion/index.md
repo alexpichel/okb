@@ -6,8 +6,7 @@ logo: /assets/agency/dallas-pd-logo.png
 author: "Lt. Jerry Mott"
 agencyid: "dallas-pd"
 agency: "Dallas Police Department"
-categories:
-  - "Policing"
+category: "Policing"
 tags:
   - "Mental Illness"
 subTitle: "A pilot program within the Dallas municipal criminal justice system to divert some persons suffering from mental health issues from the criminal court system and into treatment intake."
@@ -37,7 +36,7 @@ The goal of this program is to divert persons with underlying mental health issu
 
 #### BASED ON RESEARCH
 
-LEAD is based on Seattle’s Law Enforcement Assisted Diversion Program for people arrested on narcotics and prostitution charges.
+LEAD is based on Seattle’s Law Enforcement Assisted Diversion Program for people arrested on narcotics and prostitution charges. 
 
 [King County LEADS Program](http://leadkingcounty.org/)
 

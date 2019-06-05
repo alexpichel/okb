@@ -3,10 +3,10 @@ title: "Polk County Community Corrections Transitional Housing"
 date: "2016-09-29"
 cover: /assets/correctional.png
 logo: /assets/agency/polk-sheriff-logo2.png
+author: "Angel Pairan, Caseload Specialist"
 agencyid: "polk-s"
 agency: "Polk County Sheriff's Office"
-categories:
-  - "Correctional"
+category: "Correctional"
 tags:
   - "Housing"
   - "Justice Reinvestment"

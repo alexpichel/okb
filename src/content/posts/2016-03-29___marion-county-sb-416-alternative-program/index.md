@@ -6,8 +6,7 @@ logo: /assets/agency/marion-logo.png
 author: "Sgt. Matt Meier"
 agencyid: "marion-s"
 agency: "Marion County Sheriff's Office"
-categories:
-  - "Correctional"
+category: "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Supervision"

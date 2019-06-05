@@ -2,13 +2,13 @@
 title: "Statewide Approach to Mental Health and Crisis Response"
 date: "2017-10-10"
 cover: /assets/policing.png
-logo: /assets/agency/dpsst.png
-categories:
-  - "Policing"
+logo: /assets/agency/oacp-ossa-logos.png
+author: "Chief Jim Ferraris, Woodburn Police Department"
+agency: "Oregon Association of Chiefs of Police & Oregon State Sheriff's Association"
+category: "Policing"
 tags:
-  - "CIT"
-  - "crisis intervention"
-  - "mental illness"
+  - "Crisis Intervention"
+  - "Mental Illness"
 subTitle: "A statewide policy framework for mental health and crisis response that can be scaled for use by a 2-person, 20-person, or 600-person law enforcement agency."
 ---
 
@@ -46,10 +46,16 @@ These recommendations were proposed and approved by Oregon’s Board on Public S
 
 ### Based on Research
 
-The task force reviewed a number of publications and resources [(summarized here)](http://d1w5xmhvbencby.cloudfront.net/wp-content/uploads/2017/10/10091255/MH-Task-Force-References.pdf).
+The task force reviewed a number of publications and resources [(summarized here)](./MH-Task-Force-References.pdf).
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
 ### Program Impact
 
 While the impact of the Task Force’s recommendations is not yet known, there are promising results associated with the implementation of some of the strategies encouraged by the Task Force. For example, so far in 2017 Marion County Sheriff’s Office’s Mobile Crisis Response Team has responded to 500 active mental health calls with only 19 resulting in custody arrests and two in uses of force.
+
+#### ADDITIONAL DOCUMENTS
+
+* [Executive Summary](./Executive-Summary-MH-Task-Force-FINAL-1010171.pdf)
+* [Policy Framework](./Policy-Framework-MH-Task-Force-FINAL-101017.pdf)
+* [Training Recommendations](./Training-Recommendations-MH-Task-Force-FINAL.pdf)

@@ -6,8 +6,7 @@ logo: /assets/agency/eugene-pd-logo.png
 author: "Debbie Janecek, Prevention and Safety Acting Supervisor"
 agencyid: "eugene-pd"
 agency: "Eugene Police Department"
-categories:
-  - "Policing"
+category: "Policing"
 tags:
   - "Community Outreach"
   - "Crime Prevention"
@@ -54,4 +53,4 @@ While the commitment is great, it's worth the investment in the safety and futur
 
 #### ADDITIONAL DOCUMENTS
 
-[Eugene Safety Town After Action Report](AAR-SAFETY-TOWN-2015.pdf)
+[Eugene Safety Town After Action Report](./AAR-SAFETY-TOWN-2015.pdf)

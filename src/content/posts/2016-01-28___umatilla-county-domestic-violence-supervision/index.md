@@ -6,8 +6,7 @@ logo: /assets/agency/umatilla-county-logo.png
 author: "Dale Primmer, Director"
 agencyid: "umatilla-cc"
 agency: "Umatilla County Community Corrections"
-categories:
-  - "Correctional"
+category: "Correctional"
 tags:
   - "Domestic Violence"
   - "Family Violence"

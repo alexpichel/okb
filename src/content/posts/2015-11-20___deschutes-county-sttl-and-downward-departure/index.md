@@ -6,8 +6,7 @@ logo: /assets/agency/deschutes-pp-logo.PNG
 author: "Tanner Wark, Administrator"
 agencyid: "deschutes-pp"
 agency: "Deschutes County Adult Parole & Probation"
-categories:
-  - "Correctional"
+category: "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Specialized Caseload"

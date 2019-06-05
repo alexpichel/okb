@@ -1,13 +1,12 @@
 ---
 title: "Topic Summary -  Wellness Programs at Public Safety Agencies"
-date: "2018-01-01"
+date: "2017-09-05"
 cover: /assets/research.png
-logo: /assets/agency/dpsst.png
-categories:
-  - "Research"
+logo: /assets/agency/cpe-logo.png
+category: "Research"
 tags:
-  - "retention"
-  - "health"
+  - "Retention"
+  - "Wellness"
 subTitle: ""
 ---
 
@@ -23,7 +22,7 @@ Unfortunately, not many wellness programs have been rigorously evaluated, so inc
 
 #### ARTICLES
 
-[Health, Safety, Wellness Program Case Studies in Law Enforcement](https://www.valorforblue.org/Documents/Publications/Public/Health_Safety_and_Wellness_Program_Case_Studies_in_Law_Enforcement.pdf)
+[Health, Safety, Wellness Program Case Studies in Law Enforcement](https://ric-zai-inc.com/Publications/cops-p332-pub.pdf)
 
 This report includes four examples of wellness programs around the nation and some of the results. Costs will vary based on agency and the extent that a wellness program is implemented.
 
@@ -52,7 +51,7 @@ This article from the National Institute of Health provides a fair amount of res
 
 #### ONLINE RESOURCES
 
-[IACP’s Center for Officer Safety & Wellness](http://www.theiacp.org/COSW)
+[IACP’s Officer Safety & Wellness](https://www.theiacp.org/topics/officer-safety-wellness)
 
 The IACP has compiled numerous guides on wellness topics ranging from creating a fitness program to eating well on the go to mental health to officer safety. A number of topics even have attractive, quick-to-read brochures for officers and their families.
 

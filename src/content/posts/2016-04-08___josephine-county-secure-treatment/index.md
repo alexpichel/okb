@@ -6,8 +6,7 @@ logo: /assets/agency/josephine-logo.png
 author: "Nate Gaoiran, Director"
 agencyid: "josephine-cc"
 agency: "Jospehine County Community Corrections"
-categories:
-  - "Correctional"
+category: "Correctional"
 tags:
   - "Jail"
   - "Justice Reinvestment"

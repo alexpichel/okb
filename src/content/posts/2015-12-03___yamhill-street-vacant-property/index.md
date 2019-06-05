@@ -6,8 +6,7 @@ logo: /assets/agency/gresham-pd-logo.png
 author: "Officer James Leake"
 agencyid: "gresham-pd"
 agency: "Gresham Police Department"
-categories:
-  - "Policing"
+category: "Policing"
 tags:
   - "Abandoned Property"
   - "Chronic Nuisance"
@@ -50,3 +49,7 @@ The cooperation of the new landowner and his willingness to partner with NET was
 #### LESSONS LEARNED
 
 Solicit the assistance of your code enforcement team and get the landowners involved. The threat of arrest is not enough unless you have the support from the landowners.
+
+#### ADDITIONAL DOCUMENTS
+
+* [Yamhill Street Vacant Property Photos](./yamhill-vacant-prop-photos.pdf)

@@ -3,10 +3,10 @@ title: "Columbia County Justice Reinvestment Program"
 date: "2016-06-20"
 cover: /assets/correctional.png
 logo: /assets/agency/columbia-logo.png
+author: "Janet Evans, Director"
 agencyid: "columbia-dcj"
 agency: "Columbia County Community Corrections"
-categories:
-  - "Correctional"
+category: "Correctional"
 tags:
   - "Justice Reinvestment"
 subTitle: "This is an evidence-based curriculum of community programs that provide alternative strategies to address juvenile and adult offender behavior"

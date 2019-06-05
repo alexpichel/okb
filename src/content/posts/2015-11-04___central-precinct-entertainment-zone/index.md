@@ -6,8 +6,7 @@ logo: /assets/agency/ppb.png
 author: "Sgt. Erik Strohmeyer"
 agencyID: "ppb"
 agency: "Portland Police Bureau"
-categories:
-  - "Policing"
+category: "Policing"
 tags:
   - "Assault"
   - "Chronic Nuisance"
@@ -57,4 +56,4 @@ Identify similar towns/counties and reach out to those agencies to see what appr
 
 #### ADDITIONAL DOCUMENTS
 
-[2015 Goldstein Award Submission](https://live-cpop.ws.asu.edu/sites/default/files/org/15-09_portland.pdf)
+[2015 Goldstein Award Submission](./Goldstein_Award_Entertainment_Zone_submission_Final.pdf)

@@ -6,8 +6,7 @@ logo: /assets/agency/tillamook-logo.png
 author: "Lt. Holly Rico"
 agencyid: "tillamook-cc"
 agency: "Tillamook Community Corrections"
-categories:
-  - "Correctional"
+category: "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Substance Use Treatment"

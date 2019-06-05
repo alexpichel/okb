@@ -6,8 +6,7 @@ logo: /assets/agency/hoodriver-sheriff-logo.png
 author: "Commander Jamie Hepner"
 agencyid: "hood-river-s"
 agency: "Hood River County Sheriff's Office"
-categories:
-  - "Correctional"
+category: "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Supervision"

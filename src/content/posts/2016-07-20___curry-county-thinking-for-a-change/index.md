@@ -3,10 +3,10 @@ title: "Curry County Thinking for a Change"
 date: "2016-07-20"
 cover: /assets/correctional.png
 logo: /assets/agency/curry-logo.png
+author: "David Denney, Director"
 agencyid: "curry-cc"
 agency: "Curry County Community Corrections"
-categories:
-  - "Correctional"
+category: "Correctional"
 tags:
   - "Justice Reinvestment"
 subTitle: "This program uses cognitive behavioral curriculum and support services to reach a number of goals, including reducing recidivism and prison use."

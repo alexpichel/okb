@@ -5,8 +5,7 @@ cover: /assets/research.png
 logo: /assets/agency/multnomah-logo.png
 agencyid: "psu"
 agency: "Portland State University - 2010"
-categories:
-  - "Research"
+category: "Research"
 tags:
   - "Domestic Violence"
   - "Family Violence"

@@ -1,14 +1,16 @@
 ---
 title: "Law Enforcement AED Program"
-date: "2018-01-01"
+date: "2018-08-07"
 cover: /assets/policing.png
 logo: /assets/agency/prineville-pd.png
-categories:
-  - "Policing"
+agency: "Prineville Police Department"
+agencyid: "prineville-pd"
+author: "Sgt. Troy Wiles"
+category: "Policing"
 tags:
-  - "medical response"
-  - "technology"
-  - "training"
+  - "Medical Response"
+  - "Technology"
+  - "Training"
 subTitle: "All patrol officers have been trained on how to provide High Performance CPR and use an AED to save citizens suffering from a cardiac event."
 ---
 

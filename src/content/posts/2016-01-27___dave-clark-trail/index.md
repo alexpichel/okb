@@ -6,8 +6,7 @@ logo: /assets/agency/albany-pd-logo.png
 author: "Sandy Roberts, Community Education Specialist"
 agencyid: "albany-pd"
 agency: "Albany Police Department"
-categories:
-  - "Policing"
+category: "Policing"
 tags:
   - "Chronic Nuisance"
   - "CPTED"
@@ -60,3 +59,7 @@ It was quickly determined that there was no money in the Police or Parks & Recre
 #### LESSONS LEARNED
 
 Giving an on-site demo of what your area could look like with proper lighting had a great impact.
+
+#### ADDITIONAL DOCUMENTS
+
+* [Dave Clark Trail Photos](./Dave-clark-trail-photos.pdf)

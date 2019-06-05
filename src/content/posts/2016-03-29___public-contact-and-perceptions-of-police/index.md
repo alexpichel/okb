@@ -5,8 +5,7 @@ cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
 agencyid: "cjpri"
 agency: "Criminal Justice Policy Research Institute, Portland State University - 2013"
-categories:
-  - "Research"
+category: "Research"
 tags:
   - "Community Outreach"
   - "Oregon Research"

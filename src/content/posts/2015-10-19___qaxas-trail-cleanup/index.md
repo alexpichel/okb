@@ -6,8 +6,7 @@ logo: /assets/agency/conftribes-pd-logo.png
 author: "Lt. Brian Dubray"
 agencyID: "conftribes-pd"
 agency: "Confederated Tribes of Coos, Lower Umpqua, & Siuslaw Indians Police Department"
-categories:
-  - "Policing"
+category: "Policing"
 tags:
   - "Assault"
   - "Chronic Nuisance"
@@ -61,4 +60,4 @@ Communicate with your residents and community partners. Following the implementa
 
 #### ADDITIONAL DOCUMENTS
 
-[Qaxas Trail Cleanup Proprosal](Qaxas_Cleanup.pdf)
+[Qaxas Trail Cleanup Proprosal](./Qaxas_Cleanup.pdf)

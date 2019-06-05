@@ -6,8 +6,7 @@ logo: /assets/agency/corvallis-pd-logo.png
 author: "Community Livability Team"
 agencyID: "corvallis-pd"
 agency: "Corvallis Police Department"
-categories:
-  - "Policing"
+category: "Policing"
 tags:
   - "Chronic Nuisance"
   - "Quality of Life"
@@ -47,3 +46,8 @@ Partnerships with landlords and other community organizations. Multiple conseque
 #### LESSONS LEARNED
 
 Get the property owners and managers on board from the start and provide them with a way of getting the information about SRN houses in a timely manner.
+
+#### ADDITIONAL DOCUMENTS
+
+* [SRN Addendum](./Special_Response_Notice_Addendum.pdf)
+* [Special Response Fee Notice](./Corvallis_Police_Special_Response_Fee.pdf)

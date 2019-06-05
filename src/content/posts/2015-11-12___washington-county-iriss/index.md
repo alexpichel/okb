@@ -6,8 +6,7 @@ logo: /assets/agency/washington-logo.png
 author: "Steve Berger, Director"
 agencyid: "washington-cc"
 agency: "Washington County Community Corrections"
-categories:
-  - "Correctional"
+category: "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Reentry"

@@ -6,8 +6,7 @@ logo: /assets/agency/multnomah-logo.png
 author: "Liv Jenssen, Community Justice Manager"
 agencyid: "mult-dcj"
 agency: "Multnomah County Department of Community Justice"
-categories:
-  - "Correctional"
+category: "Correctional"
 tags:
   - "Healthcare"
   - "Mental Illness"

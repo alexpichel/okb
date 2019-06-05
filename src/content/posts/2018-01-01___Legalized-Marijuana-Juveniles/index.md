@@ -1,21 +1,20 @@
 ---
 title: "Topic Summary - Legalized Marijuana and Juveniles"
-date: "2018-01-01"
+date: "2017-09-06"
 cover: /assets/research.png
-logo: /assets/agency/dpsst.png
-categories:
-  - "Research"
+logo: /assets/agency/cpe-logo.png
+category: "Research"
 tags:
-  - "drugs"
-  - "juveniles"
+  - "Drugs"
+  - "Juveniles"
 subTitle: ""
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
-The research on this topic is sure to evolve quickly as few states have legalized recreational marijuana and those that have, have only done so in the last few years.
+The research on this topic is sure to evolve quickly as few states have legalized recreational marijuana and those that have, have only done so in the last few years. 
 
-After legalizing recreational marijuana in 2012, Colorado is one of the only states to provide a relatively comprehensive statewide analysis of surveys that include questions about juvenile use of marijuana. Washington State provides a less robust, but nonetheless informative, data brief on the subject as well.
+After legalizing recreational marijuana in 2012, Colorado is one of the only states to provide a relatively comprehensive statewide analysis of surveys that include questions about juvenile use of marijuana. Washington State provides a less robust, but nonetheless informative, data brief on the subject as well. 
 
 The literature that does exist focuses primarily on changes in juvenile use as a result of the legalization of medicinal marijuana and the results are mixed, largely due to methods and datasets employed. General consensus appears to support the idea that regardless of whether or not use increases, juveniles’ perceived risk of using marijuana decreases.
 
@@ -27,15 +26,15 @@ The literature that does exist focuses primarily on changes in juvenile use as a
 
 This report is released every two years by the Colorado Department of Public Health and Environment and includes a descriptive analysis of a number of health surveys that include question regarding marijuana. This summary focuses on the portions of Section Two examining “Marijuana Use among Adolescents and Young Adults.” Comparing Colorado to its own past survey results, authors found:
 
-- No significant overall change in the rates of self-reported use in the past-month between 2013 and 2015. However, when separated by grade, Colorado 11th graders did have a significant increase between 2013 and 2015.
+- No significant overall change in the rates of self-reported use in the past-month between 2013 and 2015. However, when separated by grade, Colorado 11th graders did have a significant increase between 2013 and 2015. 
 
 - No discernable trend across the frequency of use in the past month reported between 2005 and 2015.
 
-- The rate of past-month use in adolescents is almost identical to the national average.
+- The rate of past-month use in adolescents is almost identical to the national average. 
 
-- The current marijuana use remains lower than the current rates for alcohol consumption and higher than the current rate for tobacco use.
+- The current marijuana use remains lower than the current rates for alcohol consumption and higher than the current rate for tobacco use. 
 
-Prevention efforts are still advocated as more than five percent of high school students use marijuana daily or near daily and approximately one-third of adolescents who use marijuana first used it by 14 years of age.
+Prevention efforts are still advocated as more than five percent of high school students use marijuana daily or near daily and approximately one-third of adolescents who use marijuana first used it by 14 years of age. 
 
 **Citation**: Retail Marijuana Public Health Advisory Committee. (2017) *Monitoring health concerns related to marijuana in Colorado: 2016 changes in marijuana use patterns, systematic literature review, and possible marijuana-related health effects*.Denver: Colorado State Board of Health.
 
@@ -49,9 +48,9 @@ This report also provides a literature review that demonstrates the mixed conclu
 
 [The effect of medical cannabis laws on juvenile cannabis use](https://www.researchgate.net/profile/Lisa_Stolzenberg/publication/278333487_The_effect_of_medical_cannabis_laws_on_juvenile_cannabis_use/links/558f481908ae47a3490d9ae6.pdf)
 
-The study compares the before and after rate of prior-month drug use in states where medical marijuana has been legalized. It also surveyed juveniles about prior month usage of non-marijuana illicit drugs. The study examined the 16 states that enacted medical marijuana laws prior to 2011.
+The study compares the before and after rate of prior-month drug use in states where medical marijuana has been legalized. It also surveyed juveniles about prior month usage of non-marijuana illicit drugs. The study examined the 16 states that enacted medical marijuana laws prior to 2011. 
 
-The conclusions of the study support prior studies asserting that legalizing marijuana leads to increased juvenile use. Their findings note that both the passage of medical marijuana laws and an increase in perceived availability lead to an increase in juvenile marijuana use. That being said, the study did not find evidence that legalization of marijuana increased the use of other illicit drugs. The authors hypothesize that these results are related to the fact that the legalization of marijuana seems to decrease the social stigma associated with it.
+The conclusions of the study support prior studies asserting that legalizing marijuana leads to increased juvenile use. Their findings note that both the passage of medical marijuana laws and an increase in perceived availability lead to an increase in juvenile marijuana use. That being said, the study did not find evidence that legalization of marijuana increased the use of other illicit drugs. The authors hypothesize that these results are related to the fact that the legalization of marijuana seems to decrease the social stigma associated with it. 
 
 **Citation**: Stolzenberg, L., D’Alessio, S. J., & Dariano, D. (2016). The effect of medical cannabis laws on juvenile cannabis use. International Journal of Drug Policy, 27, 82-88.
 

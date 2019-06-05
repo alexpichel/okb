@@ -5,8 +5,7 @@ cover: /assets/research.png
 logo: /assets/agency/uo-logo.png
 agencyid: "osp"
 agency: "University of Oregon - 2014"
-categories:
-  - "Research"
+category: "Research"
 tags:
   - "Oregon Research"
   - "Speeding"

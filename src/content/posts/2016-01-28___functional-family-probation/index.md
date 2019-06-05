@@ -6,8 +6,7 @@ logo: /assets/agency/multnomah-logo.png
 author: "Tracey Freeman, Senior Manager of Probation and Accountability Services"
 agencyid: "mult-dcj"
 agency: "Multnomah County Department of Community Justice"
-categories:
-  - "Correctional"
+category: "Correctional"
 tags:
   - "Specialized Caseload"
   - "Juveniles"

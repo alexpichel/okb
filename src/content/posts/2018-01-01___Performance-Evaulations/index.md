@@ -1,14 +1,13 @@
 ---
 title: "Topic Summary - Performance Evaluations"
-date: "2018-01-01"
+date: "2017-10-01"
 cover: /assets/research.png
-logo: /assets/agency/dpsst.png
-categories:
-  - "Research"
+logo: /assets/agency/cpe-logo.png
+category: "Research"
 tags:
-  - "policy"
-  - "staffing"
-  - "retention"
+  - "Policy"
+  - "Staffing"
+  - "Retention"
 subTitle: ""
 ---
 
@@ -47,7 +46,7 @@ One study suggested that the correlation between raters in the same organization
   - Using ratings to maintain/improve relations between supervisors and subordinates.
   - Using ratings to improve the standing of the supervisors or workgroup.
   - Completing ratings based on how the evaluator wishes to be perceived
-
+  
 - There are little to no tangible rewards for accurate ratings or consequences for inaccurate ratings.
 
 *Conflicting Purposes*
@@ -108,7 +107,7 @@ The determined that the following factors increase employees’ sense of procedu
 - *Employees must be involved in the performance appraisal standard and goal setting.* This allows them to share power with supervisors and feel that all involved see collaboration as an important part of the process. For employees, this also fosters a sense of ownership in the overall appraisal process and helps them understand how their work is related the overall goals of the organization.
 
  - Related to the above points, *employees must feel empowered to voice concerns and opinions about the process.* Employees' sense of justice increases as they able to offer more input to be considered.
-
+ 
 Some points that could significantly affect the level of acceptance in a law enforcement setting and should be taken into consideration:
 
 *Union Membership*: Members of unions had a more negative view of the distributional justice of performance appraisals, since many members prefer to be rewarded based on seniority versus merit. However, members have a higher acceptance of the procedural justice of appraisals. The authors posit that they could be because of the protections that union membership may afford them in the appraisal process.

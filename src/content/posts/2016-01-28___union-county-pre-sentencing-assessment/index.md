@@ -6,8 +6,7 @@ logo: /assets/agency/union-county-logo.png
 author: "Travis Miller, Director"
 agencyid: "union-cc"
 agency: "Union County Community Corrections"
-categories:
-  - "Correctional"
+category: "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Specialized Caseload"

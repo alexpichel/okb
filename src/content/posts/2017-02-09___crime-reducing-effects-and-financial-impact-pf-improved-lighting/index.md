@@ -3,8 +3,9 @@ title: "Crime Reducing Effects and Financial Impact of Improved Lighting"
 date: "2017-02-09"
 cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
-categories:
-  - "Research"
+agencyid: "psu"
+agency: "Portland State University - 2001"
+category: "Research"
 tags:
   - "CPTED"
   - "crime prevention"
