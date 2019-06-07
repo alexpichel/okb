@@ -57,6 +57,7 @@ const LayoutWrapper = props => {
                 }
                 frontmatter {
                   title
+                  agency
                   categories
                   tags
                 }
@@ -74,13 +75,13 @@ const LayoutWrapper = props => {
           const {
             node: {
               fields: { slug, prefix },
-              frontmatter: { title, categories, tags },
+              frontmatter: { title, agency, categories, tags },
             },
           } = item;
 
           const date = prefixToDateTimeString(prefix);
 
-          return { title, slug, date, categories, tags };
+          return { title, agency, slug, date, categories, tags };
         });
 
         return (

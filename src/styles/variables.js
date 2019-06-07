@@ -18,7 +18,7 @@ const variables = injectGlobal`
     --colorG: #769e45;
     --monthColor: #5F8C40;
     --categoryColor: #3E8A8E;
-    --tagColor: #815A9A;
+    --tagColor: red;
 
     /* elements' colors */
     --bodyBgColor: var(--brightColor);

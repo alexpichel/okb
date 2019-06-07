@@ -15,7 +15,7 @@ const List = props => {
       <ul>
         {items.map(item => {
           const {
-            frontmatter: { title, subTitle },
+            frontmatter: { title, agency },
             fields: { slug, prefix },
           } = item;
 
@@ -33,7 +33,7 @@ const List = props => {
                   )}`}
                 </time>
                 {title}
-                {subTitle}
+                {agency}
               </Link>
             </li>
           );

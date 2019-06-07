@@ -306,7 +306,7 @@ class Sidebar extends React.Component {
             />
             <ul>
               {posts.map(item => {
-                const { title, slug, date } = item;
+                const { title, agency, slug, date } = item;
                 const itemDate = parse(date);
 
                 return (
@@ -319,7 +319,7 @@ class Sidebar extends React.Component {
                       {title}
                       <small>
                         <CalendarIcon />
-                        {format(itemDate, 'MMMM YYYY')}
+                        {format(itemDate, 'MMMM YYYY')} - {agency} 
                       </small>
                     </Link>
                   </li>
@@ -346,6 +346,7 @@ class Sidebar extends React.Component {
 Sidebar.propTypes = {
   posts: PropTypes.array.isRequired,
   title: PropTypes.string.isRequired,
+  agency: PropTypes.string.isRequired,
   subTitle: PropTypes.string,
   themeStyle: PropTypes.string,
   customStyle: PropTypes.string,

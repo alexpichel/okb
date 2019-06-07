@@ -30,7 +30,6 @@ import NextIcon from 'react-feather/dist/icons/arrow-right';
 import FacebookIcon from 'react-feather/dist/icons/facebook';
 import TwitterIcon from 'react-feather/dist/icons/twitter';
 import EmailIcon from 'react-feather/dist/icons/mail';
-import MessageIcon from 'react-feather/dist/icons/message-circle';
 
 const metaIcons = {
   calendar: CalendarIcon,
@@ -50,7 +49,7 @@ const PostTemplate = props => {
       post: {
         excerpt,
         html: postHTML,
-        frontmatter: { logo, title, subTitle, categories, tags },
+        frontmatter: { logo, title, agency, subTitle, categories, tags },
         fields: { slug, prefix },
       },
       footerLinks: { html: footerLinksHTML },
@@ -97,9 +96,10 @@ const PostTemplate = props => {
           >
             <Heading logo={logo} />
             <Heading title={title} />
+            <Heading agency={agency} />
             <Heading subTitle={subTitle} />
             <Meta
-              author="okb"
+              author={agency}
               prefix={prefix}
               categories={categories}
               tags={tags}
@@ -144,6 +144,7 @@ export const query = graphql`
       frontmatter {
         logo
         title
+        agency
         subTitle
         categories
         tags
